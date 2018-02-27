@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.WebApp", "NGOUnnati.WebApp\NGOUnnati.WebApp.csproj", "{7463CA7A-9A32-4FC1-984E-687E992F75DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.Business", "NGOUnnati.Business\NGOUnnati.Business.csproj", "{983B7321-084B-4E6E-983E-05F5B9B97F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.BusinessObject", "NGOUnnati.BusinessObject\NGOUnnati.BusinessObject.csproj", "{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.DAL", "NGOUnnati.DAL\NGOUnnati.DAL.csproj", "{0471D8D9-3C29-4C9C-A025-455AE64616DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.Security", "NGOUnnati.Security\NGOUnnati.Security.csproj", "{8263F15D-F0F6-4E41-907F-51C610211E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.Common", "NGOUnnati.Common\NGOUnnati.Common.csproj", "{A391EF9D-4D07-4445-AE60-5CDCA671D131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGOUnnati.DALEntity", "NGOUnnati.DALEntity\NGOUnnati.DALEntity.csproj", "{CD1C7357-3169-4FC3-ABE8-20E3F0982DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7463CA7A-9A32-4FC1-984E-687E992F75DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7463CA7A-9A32-4FC1-984E-687E992F75DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7463CA7A-9A32-4FC1-984E-687E992F75DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7463CA7A-9A32-4FC1-984E-687E992F75DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983B7321-084B-4E6E-983E-05F5B9B97F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983B7321-084B-4E6E-983E-05F5B9B97F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983B7321-084B-4E6E-983E-05F5B9B97F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983B7321-084B-4E6E-983E-05F5B9B97F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0471D8D9-3C29-4C9C-A025-455AE64616DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0471D8D9-3C29-4C9C-A025-455AE64616DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0471D8D9-3C29-4C9C-A025-455AE64616DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0471D8D9-3C29-4C9C-A025-455AE64616DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8263F15D-F0F6-4E41-907F-51C610211E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8263F15D-F0F6-4E41-907F-51C610211E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8263F15D-F0F6-4E41-907F-51C610211E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8263F15D-F0F6-4E41-907F-51C610211E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A391EF9D-4D07-4445-AE60-5CDCA671D131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A391EF9D-4D07-4445-AE60-5CDCA671D131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A391EF9D-4D07-4445-AE60-5CDCA671D131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A391EF9D-4D07-4445-AE60-5CDCA671D131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1C7357-3169-4FC3-ABE8-20E3F0982DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1C7357-3169-4FC3-ABE8-20E3F0982DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1C7357-3169-4FC3-ABE8-20E3F0982DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1C7357-3169-4FC3-ABE8-20E3F0982DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
