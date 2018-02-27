@@ -3,15 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using NGOUnnati.Security.Base.Controller;
 
 namespace NGOUnnati.WebApp.Controllers
 {
-    public class AccountController : Controller
+    public class AccountController : BaseAccountController
     {
-        // GET: Account
-        public ActionResult Login()
-        {
-            return View();
-        }
+        
     }
 }

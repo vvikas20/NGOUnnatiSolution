@@ -8,7 +8,7 @@ namespace NGOUnnati.Business
 {
     internal abstract class BaseBusiness
     {
-        BaseBusiness()
+        public BaseBusiness()
         {
 
         }

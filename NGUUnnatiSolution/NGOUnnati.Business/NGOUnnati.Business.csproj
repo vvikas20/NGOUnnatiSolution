@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ApplicationFacade.cs" />
     <Compile Include="BaseBusiness.cs" />
+    <Compile Include="Home\HomeBizController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,6 +53,10 @@
     <ProjectReference Include="..\NGOUnnati.DAL\NGOUnnati.DAL.csproj">
       <Project>{0471d8d9-3c29-4c9c-a025-455ae64616dc}</Project>
       <Name>NGOUnnati.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NGOUnnati.Security\NGOUnnati.Security.csproj">
+      <Project>{8263F15D-F0F6-4E41-907F-51C610211E4F}</Project>
+      <Name>NGOUnnati.Security</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

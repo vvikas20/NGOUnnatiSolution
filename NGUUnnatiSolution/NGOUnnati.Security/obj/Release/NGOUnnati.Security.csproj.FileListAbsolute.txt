@@ -1,0 +1,7 @@
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Release\NGOUnnati.Security.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Release\NGOUnnati.Security.pdb
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Release\System.Web.Mvc.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Release\System.Web.Mvc.xml
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Release\NGOUnnati.Security.csprojResolveAssemblyReference.cache
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Release\NGOUnnati.Security.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Release\NGOUnnati.Security.pdb

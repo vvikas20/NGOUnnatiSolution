@@ -2,3 +2,10 @@ E:\MVC_Proj_Skeleton\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.dll
 E:\MVC_Proj_Skeleton\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.pdb
 E:\MVC_Proj_Skeleton\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.dll
 E:\MVC_Proj_Skeleton\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.pdb
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.pdb
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\System.Web.Mvc.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\System.Web.Mvc.xml
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.csprojResolveAssemblyReference.cache
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.pdb

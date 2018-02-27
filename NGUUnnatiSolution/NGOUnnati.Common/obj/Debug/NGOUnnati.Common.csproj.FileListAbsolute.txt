@@ -2,3 +2,8 @@ E:\MVC_Proj_Skeleton\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.dll
 E:\MVC_Proj_Skeleton\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.pdb
 E:\MVC_Proj_Skeleton\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.dll
 E:\MVC_Proj_Skeleton\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.pdb
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.pdb
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.csprojResolveAssemblyReference.cache
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.dll
+E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.pdb
