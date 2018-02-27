@@ -1,0 +1,5 @@
+E:\MVC_Proj_Skeleton\NGOUnnati.DAL\bin\Debug\NGOUnnati.DAL.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.DAL\bin\Debug\NGOUnnati.DAL.pdb
+E:\MVC_Proj_Skeleton\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.csprojResolveAssemblyReference.cache
+E:\MVC_Proj_Skeleton\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.pdb

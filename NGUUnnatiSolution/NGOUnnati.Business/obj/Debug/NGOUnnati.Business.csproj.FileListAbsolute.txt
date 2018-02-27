@@ -1,0 +1,9 @@
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.Business.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.Business.pdb
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.BusinessObject.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.DAL.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.BusinessObject.pdb
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\bin\Debug\NGOUnnati.DAL.pdb
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.csprojResolveAssemblyReference.cache
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.pdb

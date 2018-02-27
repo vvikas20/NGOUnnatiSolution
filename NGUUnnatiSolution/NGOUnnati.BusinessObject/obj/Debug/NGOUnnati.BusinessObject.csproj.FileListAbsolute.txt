@@ -1,0 +1,4 @@
+E:\MVC_Proj_Skeleton\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.pdb
+E:\MVC_Proj_Skeleton\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.dll
+E:\MVC_Proj_Skeleton\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.pdb
