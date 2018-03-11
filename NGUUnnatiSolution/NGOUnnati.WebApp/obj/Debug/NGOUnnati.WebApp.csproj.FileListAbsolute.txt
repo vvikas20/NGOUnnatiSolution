@@ -135,6 +135,7 @@ D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Webpages.Deploy
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Webpages.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Webpages.Razor.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\WebGrease.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\NGOUnnati.BusinessObject.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\NGOUnnati.Security.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\Antlr3.Runtime.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\Microsoft.AI.DependencyCollector.xml
@@ -151,6 +152,7 @@ D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Webpages.Deploy
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Webpages.Razor.xml
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Helpers.xml
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\System.Web.Mvc.xml
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\bin\NGOUnnati.BusinessObject.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\obj\Debug\NGOUnnati.WebApp.csprojResolveAssemblyReference.cache
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\obj\Debug\NGOUnnati.WebApp.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.WebApp\obj\Debug\NGOUnnati.WebApp.pdb

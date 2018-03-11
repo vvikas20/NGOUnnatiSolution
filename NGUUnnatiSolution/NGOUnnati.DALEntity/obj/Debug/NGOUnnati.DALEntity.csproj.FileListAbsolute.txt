@@ -6,7 +6,13 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEnti
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.pdb
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.dll.config
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\EntityFramework.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\EntityFramework.xml
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.csprojResolveAssemblyReference.cache
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.pdb

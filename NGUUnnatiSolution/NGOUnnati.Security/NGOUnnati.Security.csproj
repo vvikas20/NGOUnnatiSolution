@@ -45,7 +45,18 @@
   <ItemGroup>
     <Compile Include="Base\Controller\BaseAccountController.cs" />
     <Compile Include="Base\Controller\BaseController.cs" />
+    <Compile Include="Base\Model\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Base\View\" />
+    <Folder Include="Filter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NGOUnnati.BusinessObject\NGOUnnati.BusinessObject.csproj">
+      <Project>{5A2414E5-4562-4BCF-8AD9-059F99E0CDE4}</Project>
+      <Name>NGOUnnati.BusinessObject</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
