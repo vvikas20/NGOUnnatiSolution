@@ -46,11 +46,16 @@
     <Compile Include="Base\Controller\BaseAccountController.cs" />
     <Compile Include="Base\Controller\BaseController.cs" />
     <Compile Include="Base\Model\UserModel.cs" />
+    <Compile Include="Exception\NUException.cs" />
+    <Compile Include="Exception\NUExceptionError.cs" />
+    <Compile Include="Exception\NUExceptionInfo.cs" />
+    <Compile Include="Exception\NUExceptionWarning.cs" />
+    <Compile Include="Filter\SecurityFilter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Base\View\" />
-    <Folder Include="Filter\" />
+    <Folder Include="Logger\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NGOUnnati.BusinessObject\NGOUnnati.BusinessObject.csproj">
