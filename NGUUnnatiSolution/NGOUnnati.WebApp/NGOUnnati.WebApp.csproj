@@ -139,6 +139,28 @@
     <Content Include="Content\Bootstrap\css\bootstrap.css" />
     <Content Include="Content\Bootstrap\css\bootstrap.min.css" />
     <Content Include="Content\Bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\CSS\Application\appStyle.css" />
+    <Content Include="Content\Font-Awesome\font-awesome.min.css" />
+    <Content Include="Content\Font-Awesome\fontawesome-webfont.svg" />
+    <Content Include="Content\Image\Application\accepted_cards.png" />
+    <Content Include="Content\Image\Application\avatar.jpg" />
+    <Content Include="Content\Image\Application\Baldivas.jpg" />
+    <Content Include="Content\Image\Application\children-boy-girl-young-70336.jpeg" />
+    <Content Include="Content\Image\Application\contacts.jpg" />
+    <Content Include="Content\Image\Application\Distributionofclothes.jpg" />
+    <Content Include="Content\Image\Application\e4.jpg" />
+    <Content Include="Content\Image\Application\e5.jpg" />
+    <Content Include="Content\Image\Application\hero-background-technology.jpg" />
+    <Content Include="Content\Image\Application\hero.jpg" />
+    <Content Include="Content\Image\Application\icons8-donate-50.png" />
+    <Content Include="Content\Image\Application\logo.jpg" />
+    <Content Include="Content\Image\Application\logo.png" />
+    <Content Include="Content\Image\Application\newyear.jpg" />
+    <Content Include="Content\Image\Application\pexels-photo-259269.jpeg" />
+    <Content Include="Content\Image\Application\pexels-photo-264635.jpeg" />
+    <Content Include="Content\Image\Application\support-donate.png" />
+    <Content Include="Content\Image\Application\support_volunteer.png" />
+    <Content Include="Content\Image\Application\t2.jpg" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
@@ -174,6 +196,10 @@
     <Content Include="Content\Bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\Bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Content\Font-Awesome\fontawesome-webfont.eot" />
+    <Content Include="Content\Font-Awesome\fontawesome-webfont.ttf" />
+    <Content Include="Content\Font-Awesome\fontawesome-webfont.woff" />
+    <Content Include="Content\Font-Awesome\fontawesome-webfont.woff2" />
     <None Include="Properties\PublishProfiles\NGOUnnati.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -184,8 +210,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\CSS\" />
-    <Folder Include="Content\Image\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Account\" />
   </ItemGroup>

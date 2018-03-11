@@ -20,3 +20,16 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\System.Web.Mvc.xml
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.csprojResolveAssemblyReference.cache
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.Business.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.Business.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.BusinessObject.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.DAL.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.Security.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\System.Web.Mvc.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.BusinessObject.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.DAL.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\NGOUnnati.Security.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\bin\Debug\System.Web.Mvc.xml
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.csprojResolveAssemblyReference.cache
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Business\obj\Debug\NGOUnnati.Business.pdb

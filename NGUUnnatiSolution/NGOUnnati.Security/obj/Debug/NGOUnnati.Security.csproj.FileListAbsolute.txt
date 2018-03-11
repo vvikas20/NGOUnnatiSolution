@@ -9,3 +9,9 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\System.Web.Mvc.xml
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.csprojResolveAssemblyReference.cache
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\NGOUnnati.Security.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\System.Web.Mvc.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\bin\Debug\System.Web.Mvc.xml
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Security\obj\Debug\NGOUnnati.Security.pdb

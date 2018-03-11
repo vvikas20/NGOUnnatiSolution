@@ -6,3 +6,7 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEnti
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.pdb
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\bin\Debug\NGOUnnati.DALEntity.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DALEntity\obj\Debug\NGOUnnati.DALEntity.pdb

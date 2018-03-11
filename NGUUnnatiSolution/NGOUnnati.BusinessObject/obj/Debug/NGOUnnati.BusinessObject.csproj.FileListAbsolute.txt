@@ -7,3 +7,7 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.Bu
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.csprojResolveAssemblyReference.cache
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.pdb

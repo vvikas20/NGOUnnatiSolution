@@ -23,11 +23,20 @@ namespace NGOUnnati.WebApp.App_Start
             ///
             StyleBundle thirdPartyStyles = new StyleBundle("~/Styles/ThirdParty");
             thirdPartyStyles.Include(
-                "~/Content/Bootstrap/css/bootstrap.css"
+                "~/Content/Bootstrap/css/bootstrap.css",
+                "~/Content/Font-Awesome/font-awesome.min.css"
+                );
+
+            ///Apllication Wide styles
+            ///
+            StyleBundle applicationWideStyles = new StyleBundle("~/Styles/ApplicationWide");
+            thirdPartyStyles.Include(
+                "~/Content/CSS/Application/appStyle.css"
                 );
 
             bundles.Add(thirdPartyScripts);
             bundles.Add(thirdPartyStyles);
+            bundles.Add(applicationWideStyles);
 
             BundleTable.EnableOptimizations = true;
         }
