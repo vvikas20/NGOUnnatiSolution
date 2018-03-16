@@ -139,6 +139,7 @@
     <Content Include="Content\Bootstrap\css\bootstrap.min.css" />
     <Content Include="Content\Bootstrap\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Content\CSS\Application\appStyle.css" />
+    <Content Include="Content\CSS\Application\Google-Style-Login.css" />
     <Content Include="Content\CSS\Application\Pretty-Footer.css" />
     <Content Include="Content\Font-Awesome\font-awesome.min.css" />
     <Content Include="Content\Font-Awesome\fontawesome-webfont.svg" />

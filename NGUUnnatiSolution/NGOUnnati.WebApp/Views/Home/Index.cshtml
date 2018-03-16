@@ -28,8 +28,8 @@
                     <li role="presentation"><a href="#">About </a></li>
                     <li role="presentation"><a href="#">Cause </a></li>
                     <li role="presentation"><a href="#">Events </a></li>
-                    <li role="presentation"><a href="#">Login </a></li>
-                    <li role="presentation"><a class="btn-warning" href="#" id="DonateUs">Donate Now!</a></li>
+                    <li role="presentation"><a href="#" data-toggle="modal" data-target="#modalRegister">Login </a></li>
+                    <li role="presentation"><a href="#" data-toggle="modal" data-target="#modalRegister" class="btn-warning" id="DonateUs">Donate Now!</a></li>
                 </ul>
             </div>
         </div>
@@ -171,6 +171,61 @@
 </body>
 </html>
 
+<!--Login\Registration START-->
+<div class="modal fade" role="dialog" tabindex="-1" id="modalRegister">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            @*<div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Modal Title</h4>
+                </div>*@
+            <div class="modal-body">
+                <div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#tab-1" role="tab" data-toggle="tab">Login </a></li>
+                        <li><a href="#tab-2" role="tab" data-toggle="tab">Register </a></li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" role="tabpanel" id="tab-1">
+                            <div class="login-card">
+                                <form class="form-signin">
+                                    <input class="form-control" type="email" required="" placeholder="Email address" autofocus="" id="inputEmail">
+                                    <input class="form-control" type="password" required="" placeholder="Password" id="inputPassword">
+                                    <div class="checkbox">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox">Remember me
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <button class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Sign in</button>
+                                </form><a href="#" class="forgot-password">Forgot your password?</a>
+                            </div>
+                        </div>
+                        <div class="tab-pane" role="tabpanel" id="tab-2">
+                            <div class="login-card">
+                                <form class="form-signin">
+                                    <input class="form-control" type="text" required="" placeholder="First Name" autofocus="" id="inputFirstName">
+                                    <input class="form-control" type="text" required="" placeholder="Last Name" autofocus="" id="inputLastName">
+                                    <input class="form-control" type="email" required="" placeholder="Email address" autofocus="" id="inputEmail">
+                                    <input class="form-control" type="password" required="" placeholder="Password" id="inputPassword">
+                                    <input class="form-control" type="password" required="" placeholder="Re Password" id="inputRePassword">
+                                    <button class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Register Me</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @*<div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+                    <button class="btn btn-primary" type="button">Save</button>
+                </div>*@
+        </div>
+    </div>
+</div>
+<!--Login\Registration END-->
 
 @Scripts.Render("~/Scripts/ThirdParty")
 

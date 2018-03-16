@@ -31,7 +31,8 @@ namespace NGOUnnati.WebApp.App_Start
             StyleBundle applicationWideStyles = new StyleBundle("~/Styles/ApplicationWide");
             thirdPartyStyles.Include(
                 "~/Content/CSS/Application/appStyle.css",
-                "~/Content/CSS/Application/Pretty-Footer.css"
+                "~/Content/CSS/Application/Pretty-Footer.css",
+                "~/Content/CSS/Application/Google-Style-Login.css"
                 );
 
             bundles.Add(thirdPartyScripts);
