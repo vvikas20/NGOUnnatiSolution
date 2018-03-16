@@ -9,5 +9,6 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.Bu
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Debug\NGOUnnati.BusinessObject.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.csprojResolveAssemblyReference.cache
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Debug\NGOUnnati.BusinessObject.pdb

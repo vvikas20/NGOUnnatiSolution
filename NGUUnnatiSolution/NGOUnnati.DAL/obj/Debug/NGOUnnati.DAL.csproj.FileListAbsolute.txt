@@ -10,5 +10,6 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\bin\Debug\NGOUnnati.DAL.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\bin\Debug\NGOUnnati.DAL.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.csprojResolveAssemblyReference.cache
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.DAL\obj\Debug\NGOUnnati.DAL.pdb

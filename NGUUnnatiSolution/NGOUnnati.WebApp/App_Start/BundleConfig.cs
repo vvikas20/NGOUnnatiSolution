@@ -22,16 +22,16 @@ namespace NGOUnnati.WebApp.App_Start
             ///Style bundle
             ///
             StyleBundle thirdPartyStyles = new StyleBundle("~/Styles/ThirdParty");
-            thirdPartyStyles.Include(
-                "~/Content/Bootstrap/css/bootstrap.css",
-                "~/Content/Font-Awesome/font-awesome.min.css"
-                );
+            thirdPartyStyles
+                .Include("~/Content/Bootstrap/css/bootstrap.min.css", new CssRewriteUrlTransform())
+                .Include("~/Content/Font-Awesome/font-awesome.min.css", new CssRewriteUrlTransform());
 
             ///Apllication Wide styles
             ///
             StyleBundle applicationWideStyles = new StyleBundle("~/Styles/ApplicationWide");
             thirdPartyStyles.Include(
-                "~/Content/CSS/Application/appStyle.css"
+                "~/Content/CSS/Application/appStyle.css",
+                "~/Content/CSS/Application/Pretty-Footer.css"
                 );
 
             bundles.Add(thirdPartyScripts);

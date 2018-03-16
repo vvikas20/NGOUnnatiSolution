@@ -9,5 +9,6 @@ E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.dll
 E:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.pdb
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\bin\Debug\NGOUnnati.Common.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.csprojResolveAssemblyReference.cache
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.dll
 D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.Common\obj\Debug\NGOUnnati.Common.pdb
