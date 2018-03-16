@@ -1,0 +1,30 @@
+a#DonateNow{
+  background-color:yellow;
+}
+
+div#AboutUs{
+  text-align:left;
+  padding:0px;
+  margin:0px;
+}
+
+body{
+  font-family:ariel;
+}
+
+div#AboutUS.container{
+  text-align:center;
+  padding:20px;
+}
+
+div#AboutUS{
+  padding:20px;
+  background-color:rgb(242,248,254);
+}
+
+a#DonateUs{
+}
+
+div#Cause{
+  
+}

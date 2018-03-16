@@ -10,15 +10,15 @@ namespace NGOUnnati.BusinessObject.Enums
     {
         public enum AddressType
         {
-            Correnspondence,
-            Permanent
+            Permanent=2,
+            Correnspondence=1
         }
 
         public enum UserRole
         {
-            SuperAdmin,
-            Admin,
-            Volunteer
+            Volunteer=3,
+            Admin=2,
+            SuperAdmin=1
         }
     }
 }

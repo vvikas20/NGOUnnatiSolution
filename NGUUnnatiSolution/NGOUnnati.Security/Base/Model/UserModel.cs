@@ -17,6 +17,7 @@ namespace NGOUnnati.Security.Base.Model
         public string FirstName { get; set; }
         public string SecondName { get; set; }
         public string Mobile { get; set; }
+        public string EmailID { get; set; }
         public AddressModel PermanentAddress { get; set; }
         public AddressModel CorrespondenceAddress { get; set; }
     }

@@ -24,6 +24,7 @@ namespace NGOUnnati.DALEntity
         public string Mobile { get; set; }
         public Nullable<int> PermanentAddress { get; set; }
         public Nullable<int> CorrespondenceAddress { get; set; }
+        public string EmailID { get; set; }
     
         public virtual Address Address { get; set; }
         public virtual Address Address1 { get; set; }

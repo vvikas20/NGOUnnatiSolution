@@ -1,7 +1,231 @@
 ﻿@{
     ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = null;
 }
 
-<h2>Index</h2>
+
+@Styles.Render("~/Styles/ThirdParty")
+@Styles.Render("~/Styles/ApplicationWide")
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UnnatiPage</title>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand navbar-link" href="#"><strong>Unnati</strong></a>
+                <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+            </div>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active" role="presentation"><a href="#">Home </a></li>
+                    <li role="presentation"><a href="#">About </a></li>
+                    <li role="presentation"><a href="#">Cause </a></li>
+                    <li role="presentation"><a href="#">Events </a></li>
+                    <li role="presentation"><a href="#" data-toggle="modal" data-target="#modalRegister">Login </a></li>
+                    <li role="presentation"><a href="#" data-toggle="modal" data-target="#modalRegister" class="btn-warning" id="DonateUs">Donate Now!</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="carousel slide" data-ride="carousel" id="carousel-1">
+        <div class="carousel-inner" role="listbox">
+            <div class="item"><img src="~/Content/Image/Application/pexels-photo-259269.jpeg" alt="Slide Image"></div>
+            <div class="item"><img src="~/Content/Image/Application/children-boy-girl-young-70336.jpeg" alt="Slide Image"></div>
+            <div class="item active"><img src="~/Content/Image/Application/pexels-photo-264635.jpeg" alt="Slide Image"></div>
+        </div>
+        <div>
+            <a class="left carousel-control" href="#carousel-1" role="button" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i><span class="sr-only">Previous</span></a>
+            <a class="right carousel-control" href="#carousel-1" role="button" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i><span class="sr-only">Next</span></a>
+        </div>
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-1" data-slide-to="0"></li>
+            <li data-target="#carousel-1" data-slide-to="1"></li>
+            <li data-target="#carousel-1" data-slide-to="2" class="active"></li>
+        </ol>
+    </div>
+    <div id="AboutUS">
+        <div class="container">
+            <h1 class="text-center">About Us</h1>
+            <p class="text-left">
+                Unnati Foundation is a team of young people committed to bring about positive changes in the society by striving to educate the under priviledged section of the society.This foundation aims to provide an educational environment for the student
+                in the improvement of the quality of their life and working for their overall development. Our approach is to provide education free of cost to the under priviledge childre from pre primery up till class 12th. The thought of working for
+                the development of the under priviledged section of the indian ruler society by the means of education entered the mind of Mr. Rohit Singh and jointly with Miss. Amritanjali formed this foundation by the "NAME" of "Unnati Foundation" with
+                Mr. Rohit Singh as the vice president and Miss Amritanjali as the president of the foundation. Mr. Manish Parth Tiwari as the secretry, Mr. Prateek Rastogi as a vice secretry, Mr. Pradeep as a treasurer and other active members such as
+                Mrs. Madhuri Sharma, Mr. Fahad Khan, Mrs. Shilpi, Mr. Nazmi Uddin and other volunteers and memebers.
+            </p>
+        </div>
+    </div>
+    <div id="Cause">
+        <div class="container">
+            <h1 class="text-center">Cause </h1>
+            <p class="text-left">
+                Unnati Foundation is a team of young people committed to bring about positive changes in the society by striving to educate the under priviledged section of the society.This foundation aims to provide an educational environment for the student
+                in the improvement of the quality of their life and working for their overall development. Our approach is to provide education free of cost to the under priviledge childre from pre primery up till class 12th. The thought of working for
+                the development of the under priviledged section of the indian ruler society by the means of education entered the mind of Mr. Rohit Singh and jointly with Miss. Amritanjali formed this foundation by the "NAME" of "Unnati Foundation" with
+                Mr. Rohit Singh as the vice president and Miss Amritanjali as the president of the foundation. Mr. Manish Parth Tiwari as the secretry, Mr. Prateek Rastogi as a vice secretry, Mr. Pradeep as a treasurer and other active members such as
+                Mrs. Madhuri Sharma, Mr. Fahad Khan, Mrs. Shilpi, Mr. Nazmi Uddin and other volunteers and memebers.
+            </p>
+        </div>
+    </div>
+    <div id="AboutUS">
+        <div class="container">
+            <h1 class="text-center">Events </h1>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/1.jpg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/2.jpeg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/3.jpg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/4.jpg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/5.jpg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="~/Content/Image/Application/6.jpg">
+                        <div class="caption">
+                            <h3>Thumbnail label</h3>
+                            <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 footer-navigation">
+                <h3><a href="#"><img src="~/Content/Image/Application/UnnatiLogo.png"> </a></h3>
+                <p class="links"><a href="#">Home</a><strong> · </strong><a href="#">About </a><strong> · </strong><a href="#">Cause </a><strong> · </strong><a href="#">Event </a><strong> · </strong><a href="#">Login </a><strong> · </strong><a href="#">Donate Now! </a></p>
+                <p class="company-name">Company Name © 2015</p>
+            </div>
+            <div class="col-md-4 col-sm-6 footer-contacts">
+                <div>
+                    <span class="fa fa-map-marker footer-contacts-icon"> </span>
+                    <p><span class="new-line-span">Nirala Nagar</span> Lucknow , Uttar Pradesh</p>
+                </div>
+                <div>
+                    <i class="fa fa-phone footer-contacts-icon"></i>
+                    <p class="footer-center-info email text-left"> +91 75188 888096</p>
+                </div>
+                <div>
+                    <i class="fa fa-envelope footer-contacts-icon"></i>
+                    <p> <a href="#" target="_blank">support@company.com</a></p>
+                </div>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-md-4 footer-about">
+                <h4>About the company</h4>
+                <p>
+                    Unnati Foundation is a team of young people committed to bring about positive changes in the society&nbsp;
+                </p>
+                <div class="social-links social-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a><a href="#"><i class="fa fa-github"></i></a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
+<!--Login\Registration START-->
+<div class="modal fade" role="dialog" tabindex="-1" id="modalRegister">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            @*<div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Modal Title</h4>
+                </div>*@
+            <div class="modal-body">
+                <div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#tab-1" role="tab" data-toggle="tab">Login </a></li>
+                        <li><a href="#tab-2" role="tab" data-toggle="tab">Register </a></li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" role="tabpanel" id="tab-1">
+                            <div class="login-card">
+                                <form class="form-signin">
+                                    <input class="form-control" type="email" required="" placeholder="Email address" autofocus="" id="inputEmail">
+                                    <input class="form-control" type="password" required="" placeholder="Password" id="inputPassword">
+                                    <div class="checkbox">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox">Remember me
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <button class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Sign in</button>
+                                </form><a href="#" class="forgot-password">Forgot your password?</a>
+                            </div>
+                        </div>
+                        <div class="tab-pane" role="tabpanel" id="tab-2">
+                            <div class="login-card">
+                                <form class="form-signin">
+                                    <input class="form-control" type="text" required="" placeholder="First Name" autofocus="" id="inputFirstName">
+                                    <input class="form-control" type="text" required="" placeholder="Last Name" autofocus="" id="inputLastName">
+                                    <input class="form-control" type="email" required="" placeholder="Email address" autofocus="" id="inputEmail">
+                                    <input class="form-control" type="password" required="" placeholder="Password" id="inputPassword">
+                                    <input class="form-control" type="password" required="" placeholder="Re Password" id="inputRePassword">
+                                    <button class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Register Me</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @*<div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+                    <button class="btn btn-primary" type="button">Save</button>
+                </div>*@
+        </div>
+    </div>
+</div>
+<!--Login\Registration END-->
+
+@Scripts.Render("~/Scripts/ThirdParty")
 

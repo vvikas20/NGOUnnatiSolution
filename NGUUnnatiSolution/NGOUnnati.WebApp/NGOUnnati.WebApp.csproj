@@ -199,6 +199,7 @@
     <Content Include="Content\Font-Awesome\fontawesome-webfont.woff" />
     <Content Include="Content\Font-Awesome\fontawesome-webfont.woff2" />
     <None Include="Properties\PublishProfiles\NGOUnnati.pubxml" />
+    <None Include="Properties\PublishProfiles\NGOUnnatiHosting.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

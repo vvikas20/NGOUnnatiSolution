@@ -1,0 +1,4 @@
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Release\NGOUnnati.BusinessObject.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\bin\Release\NGOUnnati.BusinessObject.pdb
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Release\NGOUnnati.BusinessObject.dll
+D:\NGOUnnatiSC\NGUUnnatiSolution\NGOUnnati.BusinessObject\obj\Release\NGOUnnati.BusinessObject.pdb
